@@ -19,6 +19,8 @@ collections:
     sort_by: weight
   prices:
     output: true
+  testimonials:
+    output: true
 
 defaults:
   - scope:
@@ -26,6 +28,11 @@ defaults:
       type: "prices"
     values:
       layout: "prices"
+  - scope:
+      path: ""
+      type: "testimonials"
+    values:
+      layout: "testimonials"
 
 
 sass:
