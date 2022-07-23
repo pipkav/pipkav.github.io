@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-layout: team
+layout: prices
 description: Testimonials
 ---
 
