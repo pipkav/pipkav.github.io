@@ -17,7 +17,7 @@ collections:
   services:
     output: true
     sort_by: weight
-  team:
+  prices:
     output: true
 
 defaults:
@@ -28,9 +28,10 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "team"
+      type: "prices"
     values:
-      layout: "team"
+      layout: "prices"
+
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
