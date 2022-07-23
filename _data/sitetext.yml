@@ -74,6 +74,13 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
+
+  prices:
+    title: "Prices"
+	text: "Clear and competitive pricing"
+	
+	section: prices
+	
   clients:
     section: clients
     max-height: 100px
