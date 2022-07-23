@@ -1,10 +1,19 @@
-<footer class="footer">
-    <div class="container">
-
-        <p class="text-center">
-            {{ site.title }} {{ site.time | date: '%Y' }} |
-            Powered by <a href="https://github.com/aksakalli/jekyll-doc-theme">Jekyll Doc Theme</a>
-        </p>
-        <!-- <p class="text-muted">Place sticky footer content here.</p> -->
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">{{site.title}}</h2>
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
     </div>
-</footer>
+  </div>
+</div>
