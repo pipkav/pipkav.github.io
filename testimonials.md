@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-layout: testimonials
+layout: team
 description: Testimonials
 ---
 
