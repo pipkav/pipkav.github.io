@@ -1,7 +1,7 @@
 ---
-title: About
+title: About Me
 layout: page
-description: About
+description: About Me
 bodyClass: page-about
 ---
 
