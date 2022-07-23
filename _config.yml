@@ -31,11 +31,12 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: raviriley/agency-jekyll-theme
 
 #commonmark:
 #  options: ["SMART", "FOOTNOTES"]
 #  extensions: ["strikethrough", "autolink", "tables"]
 
-#plugins:
+plugins:
+   - faraday-retry
 #  - jekyll-seo-tag
