@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-## Philippa Kavanagh - English Classes
+# Pip Kavanagh - English Classes
 
 Individual and small-group English classes. Friendly, open and professional teaching style for levels A2 - C2.
