@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="78.609mm" height="9.8663mm" version="1.1" viewBox="0 0 78.609 9.8663" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter1245" x="-.89425" y="-1.8234" width="2.7885" height="4.6469" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="18.379093"/>
+  </filter>
+ </defs>
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,7 +14,10 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <rect x="40.821" y="56.696" width="63.5" height="16.933" fill="none" stroke-width=".265"/>
- <text x="34.773811" y="53.823807" fill="#000000" font-family="'PT Serif'" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="34.773811" y="53.823807" font-family="serif" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Philippa</tspan></text>
- <text x="70.73439" y="53.569256" fill="#cf0000" font-family="'PT Serif'" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="70.73439" y="53.569256" fill="#cf0000" font-family="serif" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Kavanagh</tspan></text>
+ <g transform="translate(-88.433 -79.294)">
+  <rect x="40.821" y="56.696" width="63.5" height="16.933" fill="none" stroke-width=".265"/>
+  <text x="88.257439" y="86.896721" fill="#000000" font-family="'PT Serif'" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="88.257439" y="86.896721" font-family="serif" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Philippa</tspan></text>
+  <text x="124.21802" y="86.642174" fill="#cf0000" font-family="'PT Serif'" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="124.21802" y="86.642174" fill="#cf0000" font-family="serif" font-size="10.583px" stroke-width=".26458" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">Kavanagh</tspan></text>
+  <rect x="43.089" y="70.493" width="49.326" height="24.19" filter="url(#filter1245)" opacity="0"/>
+ </g>
 </svg>

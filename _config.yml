@@ -3,12 +3,12 @@ permalink: pretty
 title: 'Philippa Kavanagh - English Classes'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/name-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/name1.png"
-  desktop_height: "37px"
-  desktop_width: "297px"
+  desktop: "images/logo/name1.svg"
+  desktop_height: "26px"
+  desktop_width: "210px"
 
 home: 
   limit_services: 6
