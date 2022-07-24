@@ -25,4 +25,4 @@ intro_image_hide_on_mobile: true
 
 ## What are these classes?
 
-**Adult + friend(s)/ Teen’s + friend:* Often people are nervous to speak in a different language, meet a new person, do something difficult (like learn English!) and it can feel easier when you have a good friend at your side! In these classes with extra people we can have more conversations, games and fun; you can feel more comfortable and confident and you can save some money! 
+**Adult + friend(s)/ Teen’s + friend:** Often people are nervous to speak in a different language, meet a new person, do something difficult (like learn English!) and it can feel easier when you have a good friend at your side! In these classes with extra people we can have more conversations, games and fun; you can feel more comfortable and confident and you can save some money! 
