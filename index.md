@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Philippa Kavanagh - English Classes
+## Philippa Kavanagh - English Classes
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Individual and small-group English classes. Friendly, open and professional teaching style for levels A2 - C2.
