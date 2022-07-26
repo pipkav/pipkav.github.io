@@ -41,12 +41,13 @@
      id="namedview1350"
      showgrid="false"
      inkscape:zoom="4.8393561"
-     inkscape:cx="10.09121"
+     inkscape:cx="-19.044898"
      inkscape:cy="23.694165"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="logo-mobile" />
+     inkscape:current-layer="logo-mobile"
+     inkscape:document-rotation="0" />
   <title
      id="title1341">logo-mobile</title>
   <g
@@ -69,24 +70,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:1.25;font-family:sans-serif;fill:#e5261f;fill-opacity:1;stroke:none"
-         x="6.6124487"
-         y="32.442333"
+         x="4.6124487"
+         y="30.442333"
          id="text1358"><tspan
            sodipodi:role="line"
            id="tspan1356"
-           x="6.6124487"
-           y="32.442333"
+           x="4.6124487"
+           y="30.442333"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:serif;-inkscape-font-specification:serif;fill:#e5261f;fill-opacity:1">P</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:1.25;font-family:sans-serif;fill:#e5261f;fill-opacity:1;stroke:none"
-         x="19.417351"
-         y="48.784107"
+         x="21.417351"
+         y="46.784107"
          id="text1358-5"><tspan
            sodipodi:role="line"
            id="tspan1356-0"
-           x="19.417351"
-           y="48.784107"
+           x="21.417351"
+           y="46.784107"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:serif;-inkscape-font-specification:serif;fill:#e5261f;fill-opacity:1">K</tspan></text>
     </g>
   </g>

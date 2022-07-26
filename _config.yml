@@ -2,6 +2,9 @@ baseurl: '/'
 permalink: pretty
 title: 'Philippa Kavanagh - English Classes'
 
+languages: ["en", "es"]
+default_lang: "es"
+
 logo:
   mobile: "images/logo/name-mobile.svg"
   mobile_height: "32px"

@@ -5,7 +5,7 @@ description: About Me
 bodyClass: page-about
 ---
 
- Hello! My name is Philippa, but most people class me Pip or Pippa :) I am from Nottingham, England but I am living in Santander, Spain. 
+ Hello! My name is Philippa, but most people class me Pip or Pippa :) I am from Nottingham, England but I am living in **Santander, Spain**. 
 
 ##  My history
  
