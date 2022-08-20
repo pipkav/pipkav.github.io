@@ -1,24 +1,52 @@
-main:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "About"
-    url: "/about/"
-    weight: 2
-  - name: "Testimonials"
-    url: "/testimonials/"
-    weight: 3
-  - name: "Prices"
-    url: "/prices/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
+locales:
+    en:
+        main:
+            - name: "Home"
+              url: "/"
+              weight: 1
+            - name: "About"
+              url: "/about/"
+              weight: 2
+            - name: "Testimonials"
+              url: "/testimonials/"
+              weight: 3
+            - name: "Prices"
+              url: "/prices/"
+              weight: 4
+            - name: "Contact"
+              url: "/contact/"
+              weight: 5
 
-footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+        footer:
+            - name: "Home"
+              url: "/"
+              weight: 1
+            - name: "Contact"
+              url: "/contact/"
+              weight: 2
+
+    es:
+        main:
+            - name: "Test"
+              url: "/"
+              weight: 1
+            - name: "About"
+              url: "/about/"
+              weight: 2
+            - name: "Testimonials"
+              url: "/testimonials/"
+              weight: 3
+            - name: "Prices"
+              url: "/prices/"
+              weight: 4
+            - name: "Contact"
+              url: "/contact/"
+              weight: 5
+
+        footer:
+            - name: "Home"
+              url: "/"
+              weight: 1
+            - name: "Contact"
+              url: "/contact/"
+              weight: 2
