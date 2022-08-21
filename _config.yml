@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Philippa Kavanagh - English Classes'
+title: 'Pip Kavanagh - English Classes'
 
 languages: ["en", "es"]
 default_lang: "en"
@@ -9,8 +9,8 @@ logo:
   mobile: "images/logo/name-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/name1.svg"
-  desktop_height: "26px"
+  desktop: "images/logo/name2.svg"
+  desktop_height: "30px"
   desktop_width: "210px"
 
 home: 
