@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="56.911964mm"
+   height="9.8660612mm"
+   version="1.1"
+   viewBox="0 0 56.911962 9.8660609"
+   id="svg854"
+   sodipodi:docname="name2.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="776"
+     id="namedview856"
+     showgrid="false"
+     inkscape:zoom="2.3964601"
+     inkscape:cx="50.277932"
+     inkscape:cy="22.400448"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g852" />
+  <defs
+     id="defs836">
+    <filter
+       id="filter1245"
+       x="-0.89424998"
+       y="-1.8234"
+       width="2.7885001"
+       height="4.6469002"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="18.379093"
+         id="feGaussianBlur833" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata838">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-110.12896,-79.294016)"
+     id="g852">
+    <rect
+       x="40.820999"
+       y="56.695999"
+       width="63.5"
+       height="16.933001"
+       fill="none"
+       stroke-width="0.265"
+       id="rect840" />
+    <text
+       x="109.95327"
+       y="86.896721"
+       fill="#000000"
+       font-family="'PT Serif'"
+       font-size="10.583px"
+       stroke-width="0.26458"
+       style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"
+       id="text844"><tspan
+         x="109.95327"
+         y="86.896721"
+         font-family="serif"
+         font-size="10.583px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan842">Pip</tspan></text>
+    <text
+       x="124.21802"
+       y="86.642174"
+       fill="#cf0000"
+       font-family="'PT Serif'"
+       font-size="10.583px"
+       stroke-width="0.26458"
+       style="line-height:1.25;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       xml:space="preserve"
+       id="text848"><tspan
+         x="124.21802"
+         y="86.642174"
+         fill="#cf0000"
+         font-family="serif"
+         font-size="10.583px"
+         stroke-width="0.26458"
+         style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan846">Kavanagh</tspan></text>
+    <rect
+       x="43.089001"
+       y="70.492996"
+       width="49.326"
+       height="24.190001"
+       filter="url(#filter1245)"
+       opacity="0"
+       id="rect850" />
+  </g>
+</svg>
