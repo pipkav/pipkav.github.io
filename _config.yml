@@ -3,8 +3,7 @@ permalink: pretty
 title: 'Philippa Kavanagh - English Classes'
 
 languages: ["en", "es"]
-default_lang: "es"
-active_lang: "es"
+default_lang: "en"
 
 logo:
   mobile: "images/logo/name-mobile.svg"

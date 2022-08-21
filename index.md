@@ -7,23 +7,15 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 bodyClass: page-about
+locale: en
 ---
 
-{% for lang in site.languages %}
-    {% if lang == site.active_lang %}
-{{ lang }}
-    {% else %}
-        {% if lang == site.default_lang %}
-<a href=" {{ page.url }}">{{ lang }}</a>
-        {% else %}
-<a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
-        {% endif %}
-    {% endif %}
-{% endfor %}
 
 # Pip Kavanagh - English Classes
 
 Individual and small-group English classes. Friendly, open and professional teaching style for levels A1 - C2.
+
+[*Leer en español*](/es/)
 
 ## Why choose me?
 

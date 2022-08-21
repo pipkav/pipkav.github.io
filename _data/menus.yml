@@ -27,26 +27,26 @@ locales:
 
     es:
         main:
-            - name: "Test"
-              url: "/"
+            - name: "Inicio"
+              url: "/es/"
               weight: 1
-            - name: "About"
-              url: "/about/"
+            - name: "Sobre mí"
+              url: "/es/about/"
               weight: 2
-            - name: "Testimonials"
-              url: "/testimonials/"
+            - name: "Testimonios"
+              url: "/es/testimonials/"
               weight: 3
-            - name: "Prices"
-              url: "/prices/"
+            - name: "Precios"
+              url: "/es/prices/"
               weight: 4
-            - name: "Contact"
-              url: "/contact/"
+            - name: "Contacto"
+              url: "/es/contact/"
               weight: 5
 
         footer:
-            - name: "Home"
-              url: "/"
+            - name: "Inicio"
+              url: "/es/"
               weight: 1
-            - name: "Contact"
-              url: "/contact/"
+            - name: "Contacto"
+              url: "/es/contact/"
               weight: 2

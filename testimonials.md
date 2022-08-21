@@ -2,6 +2,7 @@
 title: Testimonials
 layout: prices
 description: Testimonials
+locale: en
 ---
 
 

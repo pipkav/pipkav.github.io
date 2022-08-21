@@ -3,6 +3,7 @@ title: About Me
 layout: page
 description: About Me
 bodyClass: page-about
+locale: en
 ---
 
  Hello! My name is Philippa, but most people class me Pip or Pippa :) I am from Nottingham, England but I am living in **Santander, Spain**. 

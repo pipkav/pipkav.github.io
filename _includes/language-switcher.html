@@ -1,0 +1,17 @@
+{% capture page_id %}{{ page.url | remove_first: "/en" | remove_first: "/es"}}{% endcapture %}
+<div class="lang-switcher">
+{% for lang in site.languages %}
+    {% if lang == page.locale %}
+        <b> {{ lang }} </b>
+    {% else %}
+		{% if lang == site.default_lang %}
+			<a href="{{ page_id }}">{{ lang }}</a>
+		{% else %}
+			<a href="/{{ lang }}{{ page_id }}">{{ lang }}</a>
+		{% endif %}
+    {% endif %}
+	{% if lang != site.languages[-1] %}
+	    /
+	{% endif %}
+{% endfor %}
+</div>
