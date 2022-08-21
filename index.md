@@ -1,5 +1,5 @@
 ---
-title: Philippa Kavanagh - English Classes
+title: Pip Kavanagh - English Classes
 layout: home
 description: Individual and small-group English classes. Friendly, open and professional teaching style for levels A1 - C2.
 intro_image: "images/illustrations/sincerely-media-dGxOgeXAXm8-unsplash.jpg"
