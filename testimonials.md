@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-layout: prices
+layout: page
 description: Testimonials
 locale: en
 ---
