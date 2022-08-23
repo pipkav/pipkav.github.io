@@ -13,9 +13,12 @@ locales:
             - name: "Prices"
               url: "/prices/"
               weight: 4
+            - name: "Covid-19"
+              url: "/covid19/"
+              weight: 5
             - name: "Contact"
               url: "/contact/"
-              weight: 5
+              weight: 6
 
         footer:
             - name: "Home"

@@ -2,7 +2,7 @@
 title: Pip Kavanagh - English Classes
 layout: home
 description: Individual and small-group English classes. Friendly, open and professional teaching style for levels A1 - C2.
-intro_image: "images/illustrations/sincerely-media-dGxOgeXAXm8-unsplash.jpg"
+intro_image: "images/IMG_2261_test.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
@@ -13,7 +13,7 @@ locale: en
 
 # Pip Kavanagh - English Classes
 
-Individual and small-group English classes. Friendly, open and professional teaching style for levels A1 - C2.
+Individual and small-group English classes. Friendly, open and experienced teaching style for levels A1 - C2.
 
 ## Why choose me?
 <div style="margin-left: 1em; line-height: 1.5">
@@ -25,7 +25,7 @@ Individual and small-group English classes. Friendly, open and professional teac
 6) Central Santander location (or in your home)<br>
 7) Comfortable, friendly environment<br>
 8) <a href="/prices/">Competitive prices</a> with discounts for advanced payments <br>
-9) Flexible timetable <br>
+9) <a href="/contact/">Flexible timetable</a> <br>
 10) <a href="/testimonials/">Amazing results</a>  <br>
 
 </div>
