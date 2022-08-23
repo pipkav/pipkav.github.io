@@ -9,7 +9,7 @@ bodyClass: page-about
 locale: en
 ---
 
-# Clear and competitive prices
+## Clear and competitive prices
 
 <table class="customers">
   <tr>
