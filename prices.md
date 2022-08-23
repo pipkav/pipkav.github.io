@@ -11,17 +11,80 @@ locale: en
 
 # Clear and competitive prices
 
-
-| Type of class &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | At my house (Santander centre) | At your house (inside Santander) | At a public space (inside Santander) | At your business | Online via Zoom |
-| --------- |--------- |--------- |--------- |--------- |--------- |
-| Individual adult/teen | 18 | 20 | 20 | - | 12 |
-| Adult/teen + a friend | 25 | 28 | - | - | - | 
-| Adult/teen + 2 friends | 30 | 30 | - | - | - |
-| Parent + child Learn Together Classes | 20 | 25 | - | - | - |
-| Parent + 2 children | 25 | 25 | - | - | - |
-| Children's class <br />(1 child, 0 - 10 years) | - | 18 | - | - | - |
-| Children's class <br />(2 children, 0 - 10 years) | - | 20 | - | - | - |
-| Business class <br />(minimum 2 students) | 30 | - | - | 35 | - |
+<table class="customers">
+  <tr>
+    <th>Type of Class &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
+    <th>At my house (Santander centre)</th>
+    <th>At your house (inside Santander)</th>
+	<th>At a public space (inside Santander)</th>
+	<th>At your business</th>
+	<th>Online via Zoom</th>
+  </tr>
+  <tr>
+    <td>Individual adult/teen</td>
+    <td>18</td>
+    <td>20</td>
+	<td>20</td>
+	<td> - </td>
+	<td>12</td>
+  </tr>
+  <tr>
+    <td>Adult/teen + a friend</td>
+    <td>25</td>
+    <td>28</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Adult/teen + 2 friends</td>
+    <td>30</td>
+    <td>30</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Parent + child Learn Together Classes</td>
+    <td>20</td>
+    <td>25</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Parent + 2 children</td>
+    <td>25</td>
+    <td>25</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Children's class <br />(1 child, 0 - 10 years)</td>
+    <td> - </td>
+    <td>18</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Children's class <br />(2 children, 0 - 10 years)</td>
+    <td> - </td>
+    <td>20</td>
+	<td> - </td>
+	<td> - </td>
+	<td> - </td>
+  </tr>
+  <tr>
+    <td>Business class <br />(minimum 2 students)</td>
+    <td>30</td>
+    <td> - </td>
+	<td> - </td>
+	<td>35</td>
+	<td> - </td>
+  </tr>
+</table>
 
 ## What are these classes?
 
