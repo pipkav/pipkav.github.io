@@ -50,3 +50,8 @@ Her way of teaching is so natural and enjoyable, she also is funny and
 light in her teaching style.
 So we didn't consider it to be a tough class, but I got my C1 level, in a
 real playful way! - **Marjan de Smit**
+
+> Pippa is a great teacher. Not only will you learn quickly and
+effectively, but you will have fun in her classes. Moreover, she is a very
+thoughtful person who cares about her students. I recommend attending her
+classes if you want to improve your English and pass a particular exam. -- **Victor Diaz Palacios**
