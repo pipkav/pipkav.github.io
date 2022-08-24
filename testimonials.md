@@ -35,7 +35,18 @@ realizing it, sometimes I even forgot that I was in class. Although I was
 her student during a short period of time, I can say without a doubt that
 she is the best English teacher I've ever had. -- **Kristel Romero Monserrate**
 
+> Pip has made sure that I am less insecure when I speak English. The classes
+are challenging and Pip creates a relaxed atmosphere. I learned a lot from
+it. -- **Ilona Mijnders**
+
 > Pippa was a really nice teacher, she understood perfectly what I needed and
 I was very happy learning with her. Her way of teaching was really
 interesting, using nice games and tricks to catch up my attention. I loved
 her lessons, there were really productive and motivating. -- **Lucia Barca**
+
+> We did an English course with a little group of colleagues. Every week we
+really looked forward to being in class with Pip.
+Her way of teaching is so natural and enjoyable, she also is funny and
+light in her teaching style.
+So we didn't consider it to be a tough class, but I got my C1 level, in a
+real playful way! - **Marjan de Smit**
