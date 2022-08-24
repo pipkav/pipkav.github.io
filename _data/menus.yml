@@ -42,9 +42,12 @@ locales:
             - name: "Precios"
               url: "/es/prices/"
               weight: 4
+            - name: "Covid-19"
+              url: "/es/covid19/"
+              weight: 5		  
             - name: "Contacto"
               url: "/es/contact/"
-              weight: 5
+              weight: 6
 
         footer:
             - name: "Inicio"

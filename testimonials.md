@@ -6,7 +6,7 @@ locale: en
 ---
 
 
-Read testimonials from current and former students
+Read testimonials from current and former students:
 
 > Really good English classes, Pippa adapts the lesson to exactly what you
 need. She's so nice and it's easy to learn and to improve your English
