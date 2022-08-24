@@ -7,3 +7,30 @@ locale: en
 
 
 Read testimonials from current and former students
+
+> Really good English classes, Pippa adapts the lesson to exactly what you
+need. She's so nice and it's easy to learn and to improve your English
+level with her. -- **Daniel Molina**
+
+> Pip was recommended to me for my English classes and it is the best
+decision I have ever made. Her classes are very practical, and she adapts
+to all my needs in order to improve in the areas I need. In addition to
+being a great professional, her passion for her profession and charisma
+make the classes very enjoyable and fun.
+I hadn't studied English for a long time, and now, in addition to having
+improved the theory, I feel much more confident and very fluent in
+practice. I recommend Pip 100%, she has helped me a lot in preparing for
+English exams, and in having the agility I needed to hold conversations in
+that language very quickly and efficiently. Thanks for your great help, the
+best teacher ever. :) -- **Marta Vega Campos**
+
+> She has been helping me for two years to get a proficient English level.
+She was patient, kind, friendly and she worked on my weak points to make me
+a better student.  She also was very attentive, and she showed interest in
+my hobbies, activities, and my job.  I really loved her classes and I
+totally recommend her to anyone. She is the best. -- **Adriana Calvo Viota**
+
+> English classes with Philippa were very fruitful, I learnt a lot without
+realizing it, sometimes I even forgot that I was in class. Although I was
+her student during a short period of time, I can say without a doubt that
+she is the best English teacher I've ever had. -- **Kristel Romero Monserrate**
