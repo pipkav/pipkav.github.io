@@ -11,6 +11,8 @@ locale: en
 
 ## Clear and competitive prices
 
+**Pay for a month’s classes in advance and enjoy a 10% discount!**
+
 <table class="customers">
   <tr>
     <th>Type of Class &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </th>
@@ -85,6 +87,8 @@ locale: en
 	<td> - </td>
   </tr>
 </table>
+
+
 
 ## What are these classes?
 
