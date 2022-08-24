@@ -34,3 +34,8 @@ totally recommend her to anyone. She is the best. -- **Adriana Calvo Viota**
 realizing it, sometimes I even forgot that I was in class. Although I was
 her student during a short period of time, I can say without a doubt that
 she is the best English teacher I've ever had. -- **Kristel Romero Monserrate**
+
+> Pippa was a really nice teacher, she understood perfectly what I needed and
+I was very happy learning with her. Her way of teaching was really
+interesting, using nice games and tricks to catch up my attention. I loved
+her lessons, there were really productive and motivating. -- **Lucia Barca**
