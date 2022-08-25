@@ -13,7 +13,7 @@ locale: en
 
 # Pip Kavanagh - English Classes
 
-Individual and small-group English classes. Friendly, open and experienced teaching style for levels A1 - C2.
+Individual and small-group English classes. Friendly, open and experienced teaching style for levels A1 - C2. [*Leer en español.*](/es/)
 
 ## Why choose me?
 <div style="margin-left: 1em; line-height: 1.5">
