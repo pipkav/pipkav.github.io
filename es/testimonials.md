@@ -62,3 +62,7 @@ Thanks to her, I not only improved my level of English and managed to pass
 the Cambridge Proficiency exam but she also helped me to gain confidence in
 myself and my own level of English. I would definitely attend classes with
 her again. -- **Irene Calderón**
+
+> Pip is a kind and committed teacher. She cares that no one was left behind
+in class, she gets the objetives we need and encourages a lot with the
+practice of english. I totally recommended her! Great professional! -- **Beatriz Gomez**
