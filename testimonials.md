@@ -55,3 +55,10 @@ real playful way! - **Marjan de Smit**
 effectively, but you will have fun in her classes. Moreover, she is a very
 thoughtful person who cares about her students. I recommend attending her
 classes if you want to improve your English and pass a particular exam. -- **Victor Diaz Palacios**
+
+> The classes with Pippa were very enriching. As a teacher, she is extremely
+professional, close, and adapts greatly to the needs of the students.
+Thanks to her, I not only improved my level of English and managed to pass
+the Cambridge Proficiency exam but she also helped me to gain confidence in
+myself and my own level of English. I would definitely attend classes with
+her again. -- **Irene Calderón**

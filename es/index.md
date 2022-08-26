@@ -25,7 +25,7 @@ Profesora amable, abierta y experimentada para niveles A1 - C2.
 5) Experiencia en la preparación de exámenes Cambridge, IELTS, APTIS <br>
 6) Ubicación central en Santander (o en su casa)<br>
 7) Ambiente comodo y agradable<br>
-8) <a href="/es/prices/">Precios competitivos</a> con descuentos por pago adelantado  <br>
+8) <a href="/es/prices/">Precios competitivos</a> con descuentos por pago adelantado <br>
 9) <a href="/es/contact/">Horarios flexibles </a> <br>
 10) <a href="/es/testimonials/">Resultados asombrosos</a>  <br>
 
