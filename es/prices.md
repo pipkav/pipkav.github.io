@@ -11,9 +11,10 @@ locale: es
 
 ## Precios claros y competitivos
 
-**Pagar un mes por adelantado y disfrutar de un descuento de 10%.**
 
 En nuestra primera reunión vamos a hablar de exactamente lo que necesita - cuándo, donde, cuantas horas por semana y generaremos un horario personalizado con precios claros. 
+
+Todos precios son **por hora**.
 
 <table class="customers">
   <tr>
@@ -89,6 +90,8 @@ En nuestra primera reunión vamos a hablar de exactamente lo que necesita - cuá
 	<td> - </td>
   </tr>
 </table>
+
+**Pagar un mes por adelantado y disfrutar de un descuento de 10%.**
 
 ## ¿Qué son estas clases? 
 

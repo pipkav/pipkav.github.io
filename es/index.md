@@ -13,7 +13,7 @@ locale: es
 # Pip Kavanagh - Clases de inglés
 
 Clases individuales y en grupos pequeños. 
-Profesora amable, abierta y experimentada para niveles A1 - C2.
+Profesora amable, abierta y experimentada para niveles A1 - C2. [*Read in English.*](/)
 
 ## ¿Por qué elegirme?
 

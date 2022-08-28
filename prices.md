@@ -11,7 +11,7 @@ locale: en
 
 ## Clear and competitive prices
 
-**Pay for a month’s classes in advance and enjoy a 10% discount!**
+All prices listed are **per hour**. 
 
 <table class="customers">
   <tr>
@@ -87,6 +87,8 @@ locale: en
 	<td> - </td>
   </tr>
 </table>
+
+**Pay for a month’s classes in advance and enjoy a 10% discount!**
 
 
 
