@@ -14,7 +14,7 @@ locale: es
 
 En nuestra primera reunión vamos a hablar de exactamente lo que necesita - cuándo, donde, cuantas horas por semana y generaremos un horario personalizado con precios claros. 
 
-Todos precios son **por hora**.
+Todos los precios son **por hora**.
 
 <table class="customers">
   <tr>
