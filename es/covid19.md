@@ -6,8 +6,8 @@ bodyClass: page-about
 locale: es
 ---
 
-El salud y la seguridad son mis prioridades para mí y mis alumnos. 
+La salud y la seguridad son mis prioridades para mí y mis alumnos. 
 
 He recibido todas las vacunas.
 
-En mi casa hay un terraza grande donde podemos hacer clases afuera. Si hace mal tiempo o si tú preferías haremos clases dentro con las ventanas abierto o con mascarillas. No olvidas que si tú sientas mal, o quieres ser más seguro, hay clases online también.   
+Para que te sientas más seguro, podriamos: dar las clases con mascarilla, con la ventana abierta o en mi terraza (si hace buen tiempo). No te olvides que si te sientes mal, o quieres sentirte más seguro, hay clases online también.   

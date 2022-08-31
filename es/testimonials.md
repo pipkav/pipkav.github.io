@@ -66,7 +66,3 @@ her again. -- **Irene Calderón**
 > Pip is a kind and committed teacher. She cares that no one was left behind
 in class, she gets the objetives we need and encourages a lot with the
 practice of english. I totally recommended her! Great professional! -- **Beatriz Gomez**
-
-> We have had class with Pippa this past school year, our experience has been
-very good, with many educational resources, the class is very enjoyable and
-fun. A great English teacher. -- **Ernesto Cabrillo and David Higuera**

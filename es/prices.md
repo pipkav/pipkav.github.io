@@ -12,7 +12,7 @@ locale: es
 ## Precios claros y competitivos
 
 
-En nuestra primera reunión vamos a hablar de exactamente lo que necesita - cuándo, donde, cuantas horas por semana y generaremos un horario personalizado con precios claros. 
+En nuestra primera reunión hablaremos de tus necesidades exactas: cuándo, donde, cuantas horas por semana y generaremos un horario personalizado con precios claros. 
 
 Todos los precios son **por hora**.
 
@@ -95,13 +95,13 @@ Todos los precios son **por hora**.
 
 ## ¿Qué son estas clases? 
 
-**Individual para adultos/adolescentes:** Estas clases son perfectos si estas preparando para un examen, necesitas ayuda con tu deberes o proyectos de universidad. Estas clases van a ser muy personalizadas con ejercicios de exámenes, mucho vocabulario y actividades de gramática basadas en tus necesidades. Hablarás mucho durante las clases y recibirás correcciones excelentes y específicos. Estas clases individuales son para alguien que quiere mejora su ingles y rápido. 
+**Individual para adultos/adolescentes:** Estas clases son perfectas si estas preparando un examen, necesitas ayuda con tu deberes o proyectos de universidad. Estas clases van a ser muy personalizadas con ejercicios de exámenes, mucho vocabulario y actividades de gramática basadas en tus necesidades. Hablarás mucho durante las clases y recibirás correcciones específicos. Estas clases individuales son para alguien que quiere mejora su ingles rápido. 
 
-**Adulto/adolescente + un amigo:** A menudo la gente tiene miedo de hablar en una idioma diferente,  conocer una persona nueva, hacer algo difícil (como aprender inglés) y puede sentirse más fácil cuando tienes un bueno amigo a tu lado. En estas clases, con personas adicionales, podemos tener más conversaciones, juegos y divertirnos más; puedes sentirse más a gusto, tener más confianza y puedes ahorrar dinero!
+**Adulto/adolescente + un amigo:** A menudo la gente tiene miedo de hablar en una idioma diferente,  conocer una persona nueva, hacer algo difícil (como aprender inglés) y puede ser más fácil cuando tienes un bueno amigo a tu lado. En estas clases, con personas adicionales, podemos tener más conversaciones, juegos y divertirnos más; puedes sentirte más a gusto, tener más confianza y puedes ahorrar dinero.
 
-**Padre + hijo ‘Clases de Aprender Juntos’**: Conocer a una nueva persona puede ser aterrador, especialmente cuando ella está hablando otro idioma!  En las clases de Aprender Juntos tus hijos van a sentirse a gusto con tu en las clases y tu vas a mejora tu nivel de ingles al mismo tiempo. El  beneficio increíble de estas clases es que vas a ser un bueno ejemplo para tus hijos (cuando ellos te ven jugar, hablar y cantar en ingles ellos van a querer hacerlo también!) y después de las clases podéis seguir la diversión sin yo! Cómo sabes todo el vocabulario, las canciónes y las actividades de la clase, podéis practicarlos en casa. Mamas y Papas disfrutan de esta clase tanto como sus hijos! 
+**Padre + hijo ‘Clases de Aprender Juntos’**: Conocer a una nueva persona puede asustar cuando habla otro idioma.  En las clases de Aprender Juntos tus hijos van a sentirse más a gusto contigo en las clases y podrás mejorar tu nivel de ingles al mismo tiempo. Otro beneficio adicional de estas clases es que seras un bueno ejemplo para tus hijos (cuando ellos te ven jugar, hablar y cantar en ingles ellos van a querer hacerlo también).  ¡Después de las clases podéis seguir la diversión sin mí! Cómo sabrás todo el vocabulario, las canciónes y las actividades de la clase, podréis practicarlos en casa. ¡Mamas y papas disfrutan de esta clase tanto como sus hijos! 
 
-**Individual para hijos:** Para mis alumnos más joven las clases tienen lugar en sus casas porque eso es donde ellos se sienten el más relajado y seguro (ademas es donde ellos tienen todos sus mejores juguetes de mostrarme). Este contexto de la vida real ayuda maintainer la rutina para los niños y podemos hacer todas las cosas que ellos les gustan, pero en ingles! Podemos jugar juegos, cantar, cocinar, pintar, bailar, leer, hacer yoga...las posibilidades infinitas! 
+**Individual para hijos:** Para mis alumnos más jovenes las clases tienen lugar en sus casas porque eso es donde ellos se sienten más relajado y seguros (ademas es donde ellos tienen todos sus mejores juguetes para enseñarme). Este contexto de la vida real ayuda a mantener la rutina de los niños y podemos hacer todas las cosas que a ellos les gustan, pero en ingles. ¡Podemos jugar, cantar, cocinar, pintar, bailar, leer, hacer yoga...las posibilidades son infinitas! 
 
-**Clases para empresas:** Si tu empleadas necesitan hablar inglés probablemente ellos necesitan vocabulario muy específico para situaciones muy específicas.  Por esta razón, estas clases tienen lugar en tu trabajo - dar presentaciones, generar ventas, participar en juegos de roles para reuniones importantes,  o hacer negocios.  En las empresas es tan importante ser claro y correcto - faltas puede costar, por lo tanto estas clases centra en precision y pronunciación. 
+**Clases para empresas:** Si tus empleados necesitan hablar inglés probablemente necesiten un vocabulario muy específico para situaciones muy específicas.  Por esta razón, estas clases tienen lugar en el trabajo: dar presentaciones, generar ventas y simular situaciones para reuniones importantes o hacer negocios.  En las empresas es de vital importantancia ser claro y correcto, los errores causan problemas, por lo tanto estas clases se centran en precision y pronunciación para ser entendido y entender. 
 
