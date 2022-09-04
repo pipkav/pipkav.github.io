@@ -13,7 +13,7 @@ Entiendo que a menudo mis alumnos tienen vidas muy ocupadas, así que soy flexib
 
 Estoy disponible de 9H a 21H de lunes a jueves, y de 10H a 14H los viernes (incluyendo durante la hora de la comida).
 
-Si no puedes venir el mismo día u hora cada semana, no te preocupes: juntos podemos crear un horario flexible que funcióna para ti.  ¡Contáctame para descubrir tu horario perfecto! 
+Si no puedes venir el mismo día u hora cada semana, no te preocupes: juntos podemos crear un horario flexible que funcione para ti.  ¡Contáctame para descubrir tu horario perfecto!
 
 ## Cancelaciones
  
