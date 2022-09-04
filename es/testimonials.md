@@ -5,8 +5,7 @@ description: Testimonios
 locale: es
 ---
 
-Leer lo que unos de mis estudiantes actuales y antiguos dice:
-
+Puedes leer lo que algunos de mis estudiantes actuales y antiguos tienen que decir:
 
 > Really good English classes, Pippa adapts the lesson to exactly what you
 need. She's so nice and it's easy to learn and to improve your English
