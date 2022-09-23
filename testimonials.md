@@ -18,11 +18,11 @@ improved the theory, I feel much more confident and very fluent in
 practice. I recommend Pip 100%, she has helped me a lot in preparing for
 English exams, and in having the agility I needed to hold conversations in
 that language very quickly and efficiently. Thanks for your great help, the
-best teacher ever. :) -- **Marta Vega Campos**
+best teacher ever. :) -- **Marta**
 
 > Pip has made sure that I am less insecure when I speak English. The classes
 are challenging and Pip creates a relaxed atmosphere. I learned a lot from
-it. -- **Ilona Mijnders**
+it. -- **Ilona**
 
 
 > We did an English course with a little group of colleagues. Every week we
@@ -30,4 +30,4 @@ really looked forward to being in class with Pip.
 Her way of teaching is so natural and enjoyable, she also is funny and
 light in her teaching style.
 So we didn't consider it to be a tough class, but I got my C1 level, in a
-real playful way! - **Marjan de Smit**
+real playful way! - **Marjan**
