@@ -84,7 +84,7 @@ All prices listed are **per hour**.
     <td> - </td>
 	<td> - </td>
 	<td>35</td>
-	<td> - </td>
+	<td>35</td>
   </tr>
 </table>
 

@@ -2,7 +2,7 @@
 title: Pip Kavanagh - English Classes
 layout: home
 description: Individual and small-group English classes. Friendly, open and professional teaching style for levels A1 - C2.
-intro_image: "../images/IMG-2261-test.jpg"
+intro_image: "../images/Pip-Photo.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
