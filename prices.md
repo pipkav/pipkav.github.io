@@ -24,16 +24,16 @@ All prices listed are **per hour**.
   </tr>
   <tr>
     <td>Individual adult/teen</td>
-    <td>18</td>
     <td>20</td>
-	<td>20</td>
+    <td>25</td>
+	<td>25</td>
 	<td> - </td>
-	<td>12</td>
+	<td>18</td>
   </tr>
   <tr>
     <td>Adult/teen + a friend</td>
     <td>25</td>
-    <td>28</td>
+    <td>30</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -41,23 +41,23 @@ All prices listed are **per hour**.
   <tr>
     <td>Adult/teen + 2 friends</td>
     <td>30</td>
-    <td>30</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Parent + child Learn Together Classes</td>
-    <td>20</td>
     <td>25</td>
+    <td>30</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Parent + 2 children</td>
-    <td>25</td>
-    <td>25</td>
+    <td>30</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -65,7 +65,7 @@ All prices listed are **per hour**.
   <tr>
     <td>Children's class <br />(1 child, 0 - 10 years)</td>
     <td> - </td>
-    <td>18</td>
+    <td>25</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -73,17 +73,17 @@ All prices listed are **per hour**.
   <tr>
     <td>Children's class <br />(2 children, 0 - 10 years)</td>
     <td> - </td>
-    <td>20</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Business class <br />(minimum 2 students)</td>
-    <td>30</td>
+    <td>35</td>
     <td> - </td>
 	<td> - </td>
-	<td>35</td>
+	<td>40</td>
 	<td>35</td>
   </tr>
 </table>
