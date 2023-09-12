@@ -27,16 +27,16 @@ Todos los precios son **por hora**.
   </tr>
   <tr>
     <td>Individual para adultos/adolescentes</td>
-    <td>18</td>
     <td>20</td>
-	<td>20</td>
+    <td>25</td>
+	<td>25</td>
 	<td> - </td>
-	<td>12</td>
+	<td>18</td>
   </tr>
   <tr>
     <td>Adulto/adolescente + un amigo</td>
     <td>25</td>
-    <td>28</td>
+    <td>30</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -44,23 +44,23 @@ Todos los precios son **por hora**.
   <tr>
     <td>Adulto/adolescente + 2 amigos</td>
     <td>30</td>
-    <td>30</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Padre + hijo ‘Clases de Aprender Juntos’</td>
-    <td>20</td>
     <td>25</td>
+    <td>30</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Padre + 2 hijos ‘Clases de Aprender Juntos’</td>
-    <td>25</td>
-    <td>25</td>
+    <td>30</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -68,7 +68,7 @@ Todos los precios son **por hora**.
   <tr>
     <td>Individual para hijos  <br />(1 niño, 0 - 10 años)</td>
     <td> - </td>
-    <td>18</td>
+    <td>25</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
@@ -76,17 +76,17 @@ Todos los precios son **por hora**.
   <tr>
     <td>Hijos juntos <br />(2 niño, 0 - 10 años)</td>
     <td> - </td>
-    <td>20</td>
+    <td>35</td>
 	<td> - </td>
 	<td> - </td>
 	<td> - </td>
   </tr>
   <tr>
     <td>Para empresas<br />(mínimo de 2 estudiantes) </td>
-    <td>30</td>
+    <td>35</td>
     <td> - </td>
 	<td> - </td>
-	<td>35</td>
+	<td>40</td>
 	<td>35</td>
   </tr>
 </table>
